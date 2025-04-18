@@ -36,3 +36,4 @@ hello-java-maven/
 
 3. **How does Jenkins use Maven?**
    Jenkins uses Maven to compile Java code, resolve dependencies, and build the project through configured jobs.
+![screenshot](https://github.com/user-attachments/assets/997940f5-ad50-4b54-a251-17377dde7f78)
